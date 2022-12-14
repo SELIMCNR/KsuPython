@@ -1,5 +1,0 @@
-
-
-
-
-Listwidgette tüm olayları , combobox için yapınız.
