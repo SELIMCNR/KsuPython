@@ -1,2 +1,0 @@
-Pyqt sürümü nerede ise oradaki pythonu aç örnek python 3.9 da ise vscoda 
-python 3.9 sürümünü aç 
